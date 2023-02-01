@@ -1,6 +1,8 @@
 # Follow and Subscribe
 
-I write about iOS development at [useyourloaf.com](https://useyourloaf.com). You can also **sign up** to my [free newsletter](https://useyourloaf.com/newsletter/) and receive new posts and iOS news from me direct to your inbox.
+I write about iOS development at [useyourloaf.com](https://useyourloaf.com). Author of [Modern Auto Layout](https://useyourloaf.com/autolayout/).
+
+You can **sign up** to my [free newsletter](https://useyourloaf.com/newsletter/) and receive new posts and iOS news from me direct to your inbox.
 
 I am in the usual places if you want to follow along:
 
